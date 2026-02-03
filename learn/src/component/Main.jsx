@@ -11,7 +11,7 @@ const Main = () => {
         <p>Study anywhere you want to with our help. Well, expcept Hogwarts </p> 
         <div className="main-btn">
           <p><span>Request a course</span></p>
-          <p> <img src={ask} width="20px"/>+1(250)792200568</p>
+          <p> <img src={ask} width="20px"/>📞+1(250)792200568</p>
           
         </div>
     </div>
